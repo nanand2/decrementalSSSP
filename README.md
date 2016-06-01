@@ -1,7 +1,7 @@
 # decrementalSSSP
 
 
-Run initial tests on Fast ES-tree algorithm for graph with m edges and n nodes by calling ./run-tests m n 
+Run initial tests on Fast ES-tree algorithm by calling ./run-tests 
 
 
 Algorithms Implemented
